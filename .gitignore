@@ -1,0 +1,20 @@
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Node.js (nếu dùng)
+node_modules/
+
+# File build/tạm
+dist/
+build/
+*.log
+
+# File nhị phân
+*.exe
+*.dll
+*.bin
